@@ -1,0 +1,12 @@
+{
+  "name": "toolbox-pod",
+  "description": "Toolbox POD's Claude Code plugin: custom tees and hoodies printed and shipped from Utah.",
+  "owner": { "name": "Toolbox POD", "email": "support@toolboxpod.com" },
+  "plugins": [
+    {
+      "name": "toolbox-pod",
+      "source": "./",
+      "description": "Design custom tees and hoodies, see mockups, and order prints made and shipped from Utah, through Toolbox POD's hosted MCP server."
+    }
+  ]
+}

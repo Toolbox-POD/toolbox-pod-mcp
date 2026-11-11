@@ -1,0 +1,11 @@
+{
+  "name": "toolbox-pod",
+  "version": "1.0.0",
+  "description": "Design custom tees and hoodies, see mockups, and order prints made and shipped from Utah, through Toolbox POD's hosted MCP server at mcp.toolboxpod.com. Sign in (or sign up) to Toolbox POD on first connect; no API key.",
+  "author": { "name": "Toolbox POD", "email": "support@toolboxpod.com", "url": "https://toolboxpod.com" },
+  "homepage": "https://toolboxpod.com/mcp",
+  "repository": "https://github.com/Toolbox-POD/toolbox-pod-mcp",
+  "license": "MIT",
+  "keywords": ["toolbox pod", "toolboxpod", "toolbox pod mcp", "toolbox pod shirts"],
+  "logo": "logo.png"
+}

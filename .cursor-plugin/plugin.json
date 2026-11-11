@@ -7,5 +7,6 @@
   "repository": "https://github.com/Toolbox-POD/toolbox-pod-mcp",
   "license": "MIT",
   "keywords": ["print-on-demand", "t-shirts", "hoodies", "mockups", "custom apparel", "woocommerce"],
-  "logo": "logo.png"
+  "logo": "logo.png",
+  "mcpServers": "./mcp.json"
 }

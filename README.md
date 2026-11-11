@@ -41,6 +41,14 @@ claude mcp add --transport http --scope user toolbox-pod https://mcp.toolboxpod.
 
 Then type `/mcp` in Claude Code, pick **toolbox-pod**, then **Authenticate**. Sign in and click **Allow**.
 
+Or install it as a Claude Code plugin (this repository is its marketplace):
+
+```
+/plugin install toolbox-pod --marketplace Toolbox-POD/toolbox-pod-mcp
+```
+
+Then type `/mcp`, pick **plugin:toolbox-pod:toolbox-pod**, then **Authenticate**.
+
 ### Codex
 
 ```sh
