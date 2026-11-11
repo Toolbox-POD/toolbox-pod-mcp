@@ -3,8 +3,9 @@
   "name": "com.toolboxpod/mcp",
   "title": "Toolbox POD",
   "description": "Design custom shirts and hoodies, make mockups, publish to Shopify or WooCommerce, and order prints.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://toolboxpod.com/mcp",
+  "repository": { "url": "https://github.com/Toolbox-POD/toolbox-pod-mcp", "source": "github" },
   "icons": [
     { "src": "https://toolboxpod.com/site/assets/logo-mark-512.png", "mimeType": "image/png", "sizes": ["512x512"] },
     { "src": "https://toolboxpod.com/site/assets/logo-mark.svg", "mimeType": "image/svg+xml", "sizes": ["any"] }
