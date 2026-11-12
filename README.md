@@ -73,6 +73,15 @@ gemini extensions install https://github.com/Toolbox-POD/toolbox-pod-mcp
 
 Then run `/mcp auth toolbox-pod` in Gemini CLI, sign in and click **Allow**. (New: tell us if a step differs.)
 
+### Antigravity
+
+```sh
+agy plugin install https://github.com/Toolbox-POD/toolbox-pod-mcp/tree/main/antigravity
+```
+
+Then open `/plugin`, expand **toolbox-pod** under **Installed** and choose **Sign in** (in the app: **Customizations** →
+**Installed** → **Authenticate**). Sign in and click **Allow**.
+
 ### Kiro
 
 [![Add to Kiro](https://kiro.dev/images/add-to-kiro.svg)](https://kiro.dev/launch/mcp/add?name=toolbox-pod&config=%7B%22url%22%3A%22https%3A%2F%2Fmcp.toolboxpod.com%2Fmcp%22%2C%22disabled%22%3Afalse%2C%22autoApprove%22%3A%5B%5D%7D)
@@ -106,7 +115,7 @@ Same prices as the website. No fee to connect and no plan needed to order. The f
 - **Nothing is paid by default.** Until the account Owner sets a spending limit, your AI prepares orders and you pay
   for them yourself. In ChatGPT and Claude on the web it always sends you a link to pay on toolboxpod.com.
 - Tools that change or spend something are marked, so your AI app asks you before it runs them.
-- The Claude Code, Cursor and Grok Build plugins add a [skill](skills/toolbox-pod/SKILL.md): your AI shows the items
+- The Claude Code, Cursor, Grok Build and Antigravity plugins add a [skill](skills/toolbox-pod/SKILL.md): your AI shows the items
   and the total and waits for your yes before it orders, pays, publishes to your store or draws a design.
 - Disconnect any time on the [Connections page](https://toolboxpod.com/app/connections).
 

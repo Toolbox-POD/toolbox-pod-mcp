@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "toolbox-pod": {
+      "serverUrl": "https://mcp.toolboxpod.com/mcp"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "toolbox-pod",
+  "displayName": "Toolbox POD",
+  "version": "1.1.0",
+  "description": "Design custom tees and hoodies, see mockups, and order prints made and shipped from Utah, through Toolbox POD's hosted MCP server.",
+  "logo": "assets/logo.png",
+  "suggestedPrompts": [
+    "Design a retro sunset tee for my coffee shop and show it on a black shirt",
+    "Price 24 navy hoodies with my saved logo design",
+    "Show the status and tracking of my latest Toolbox POD order"
+  ],
+  "author": { "name": "Toolbox POD", "email": "support@toolboxpod.com", "url": "https://toolboxpod.com" },
+  "homepage": "https://toolboxpod.com/mcp",
+  "repository": "https://github.com/Toolbox-POD/toolbox-pod-mcp",
+  "license": "MIT",
+  "keywords": ["toolbox-pod", "print-on-demand", "custom-t-shirts", "hoodies", "mockups"]
+}
