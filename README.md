@@ -107,3 +107,5 @@ Same prices as the website. No fee to connect and no plan needed to order. The f
 support@toolboxpod.com · Made by Toolbox Brands LLC, Utah.
 
 The files in this repository are MIT licensed.
+
+[![MCP Badge](https://lobehub.com/badge/mcp/toolbox-pod-toolbox-pod-mcp)](https://lobehub.com/mcp/toolbox-pod-toolbox-pod-mcp)
