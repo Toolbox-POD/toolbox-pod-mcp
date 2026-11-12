@@ -24,4 +24,9 @@ Example entry for a client that reads an `mcpServers` JSON file:
 After adding it, the client opens a Toolbox POD sign-in page in the browser. The person signs in (or signs up) and
 clicks **Allow**. Then call the `whoami` tool: it returns the person's account, role and stores.
 
+Cline: the sign-in does not open by itself. After adding the server, run `cline mcp`, choose Authorize OAuth, then
+`toolbox-pod` (in the Cline extension, click Authenticate on the server). Its tools appear only after that. The CLI's
+config file is `~/.cline/data/settings/cline_mcp_settings.json`; one-line add:
+`cline mcp add toolbox-pod --transport http https://mcp.toolboxpod.com/mcp`.
+
 Docs: https://toolboxpod.com/docs/mcp
