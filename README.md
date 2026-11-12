@@ -73,6 +73,13 @@ gemini extensions install https://github.com/Toolbox-POD/toolbox-pod-mcp
 
 Then run `/mcp auth toolbox-pod` in Gemini CLI, sign in and click **Allow**. (New: tell us if a step differs.)
 
+### Kiro
+
+[![Add to Kiro](https://kiro.dev/images/add-to-kiro.svg)](https://kiro.dev/launch/mcp/add?name=toolbox-pod&config=%7B%22url%22%3A%22https%3A%2F%2Fmcp.toolboxpod.com%2Fmcp%22%2C%22disabled%22%3Afalse%2C%22autoApprove%22%3A%5B%5D%7D)
+
+Click **Add to Kiro** and approve the configuration. When Kiro shows the authenticate popup, click it, sign in to
+Toolbox POD and click **Allow**.
+
 ### Any other MCP app
 
 Add a remote server (Streamable HTTP) with `https://mcp.toolboxpod.com/mcp`. Pick OAuth if it asks; the app finds the
