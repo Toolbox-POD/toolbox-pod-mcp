@@ -106,6 +106,8 @@ Same prices as the website. No fee to connect and no plan needed to order. The f
 - **Nothing is paid by default.** Until the account Owner sets a spending limit, your AI prepares orders and you pay
   for them yourself. In ChatGPT and Claude on the web it always sends you a link to pay on toolboxpod.com.
 - Tools that change or spend something are marked, so your AI app asks you before it runs them.
+- The Claude Code, Cursor and Grok Build plugins add a [skill](skills/toolbox-pod/SKILL.md): your AI shows the items
+  and the total and waits for your yes before it orders, pays, publishes to your store or draws a design.
 - Disconnect any time on the [Connections page](https://toolboxpod.com/app/connections).
 
 ## Links
